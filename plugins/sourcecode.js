@@ -14,7 +14,7 @@ Hai ${ye} Lagi Nyari Sc Ya?
 Sc private klo mau cht owner Dibawah :
 wa.me/6285779150501
 
-_*Jangan Lupa Di Subscribe*_`
+_*Jangan Lupa Di Kasih by Nama Gw*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
