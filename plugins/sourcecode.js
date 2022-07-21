@@ -15,10 +15,10 @@ Sc private klo mau cht owner Dibawah :
 wa.me/6285779150501
 
 _*Jangan Lupa Di Kasih by Nama Gw*_`
-conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
+conn.sendBut(owner, m) 
 }
-handler.help = ['sc', 'sourcecode']
+handler.help = ['sourcecode']
 handler.tags = ['info']
-handler.command = /^(sc|sourcecode)$/i
+handler.command = /^(sc(ript(bot)?)?|sourcecode)$/i
 
 module.exports = handler
