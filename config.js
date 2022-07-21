@@ -30,7 +30,7 @@ global.APIKeys = { // APIKey Here
 }
 
 //global.wm = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 Hanz Botz'
-global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
+global.wait = '_*Sabar Sedang Di Proses Tod🗿 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
